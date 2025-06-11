@@ -9,7 +9,7 @@ tags: [V5, general, introducción a VTES, conceptos básicos]
 category: opinion
 author: Alberto R. León
 description: "Vampire: The Eternal Struggle es un TGC con casi tres décadas de existencia. El objetivo es hacerse del control del mundo moviendo a tus siervos de la mejor manera y evitando sucumbir al poder de los otros jugadores."
-toc: no
+toc: yes
 ---
 
 # Introducción
