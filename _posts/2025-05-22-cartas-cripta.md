@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: "Cartas de cripta"
-date: 2023-05-29
+date: 2025-05-29
 img: posts/202305/Gines-Quinonero-V5-01.jpg
 tags: [cripta, introducción a VTES, conceptos básicos]
 category: opinion
